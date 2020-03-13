@@ -103,3 +103,7 @@ ENV/
 
 # IDE settings
 .vscode/
+
+# JRK 2020MAR13
+
+*.pickle
